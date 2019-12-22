@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379297603545",
+    "firebase_url": "https://arduino-e9389.firebaseio.com",
+    "project_id": "arduino-e9389",
+    "storage_bucket": "arduino-e9389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379297603545:android:d4ccd5764bd72eb12b43c8",
+        "android_client_info": {
+          "package_name": "com.derahh.pbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379297603545-u8925fg5n74306h73rpn1eqp9cmammk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.derahh.pbs",
+            "certificate_hash": "b3d34cb6f77d5518347cb98c03ba14b5738326c9"
+          }
+        },
+        {
+          "client_id": "379297603545-njlcmmb6k1o9614fkvnp573num73ag50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyCGQ4-skN3dkq2b0o4furlcU814eQCjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379297603545-njlcmmb6k1o9614fkvnp573num73ag50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

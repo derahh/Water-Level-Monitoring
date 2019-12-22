@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WaterLevel</string>
+    <string name="message_daily">Lihat Aplikasi Hari ini</string>
+    <string name="key_warning_notification">notifikasi_bahaya</string>
+    <string name="key_daily_notification">notifikasi_harian</string>
+    <string name="switch_warning_notification">Notifikasi tanda bahaya</string>
+    <string name="switch_daily_notification">Notifikasi untuk harian</string>
+    <string name="title_warning_notification">Notifikasi Bahaya</string>
+    <string name="title_daily_notification">Notifikasi Harian</string>
+</resources>
